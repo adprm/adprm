@@ -1,11 +1,6 @@
 ### Hi there, I'm a Developer 👋
 
-- 🔭 I’m currently working on https://github.com/adprm/CI3-LoginSystem
-- 🌱 I’m currently learning CodeIgniter 3 Framework and Web service Restful API
-- 🤔 I’m looking for help with https://stackoverflow.com/
-- 💬 Ask me about web development
-- 📫 How to reach me: https://adprm.github.io
-- ⚡ Fun fact: Friendly and easy to laugh
+![Profile views](https://gpvc.arturio.dev/adprm)
 
 <!--
 **adprm/adprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
