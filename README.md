@@ -1,9 +1,14 @@
 ### Hi there, I'm a Developer 👋
 
-<br />
-<br />
-
 Hi there, I'm **Aditiya Permana**, I'm a **Web Development**, and I'm a **Informatics Engineering** student from Binaniaga University in Indonesia. I am very interested in the world of computer science especially in software development.
+
+- 🔭 I’m currently working on several projects using Codeigniter.
+- 🌱 I’m currently learning Codeigniter & RestfulAPI.
+- 🤔 My interests are with full stack web development.
+- 💬 Ask me about a pleasure.
+- 📫 Please email via aditiyaprmn00@gmail.com to reach me.
+- ⚡ Fun fact: I'm laught easily.
+
 
 ![Profile views](https://gpvc.arturio.dev/adprm)
 
