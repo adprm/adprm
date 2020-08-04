@@ -1,6 +1,6 @@
 ### Hi there, I'm a Developer 👋
 
-Hi there, I'm **Aditiya Permana**, I'm a **Web Development**, and I'm a **Informatics Engineering** student from Binaniaga University in Indonesia. I am very interested in the world of computer science especially in software development.
+Hi there, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informatics Engineering** student from Binaniaga University in Indonesia. I am very interested in the world of computer science especially in software development.
 
 - 🔭 I’m currently working on several projects using Codeigniter.
 - 🌱 I’m currently learning Codeigniter & RestfulAPI.
