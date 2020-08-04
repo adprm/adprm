@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm a Developer 👋
 
 - 🔭 I’m currently working on https://github.com/adprm/CI3-LoginSystem
 - 🌱 I’m currently learning CodeIgniter 3 Framework and Web service Restful API
