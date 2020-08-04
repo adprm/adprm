@@ -1,5 +1,10 @@
 ### Hi there, I'm a Developer 👋
 
+<br />
+<br />
+
+Hi there, I'm **Aditiya Permana**, I'm a **Web Development**, and I'm a **Informatics Engineering** student from Binaniaga University in Indonesia. I am very interested in the world of computer science especially in software development.
+
 ![Profile views](https://gpvc.arturio.dev/adprm)
 
 <a href="https://www.linkedin.com/in/aditiyaprmn/">
