@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CodeIgniter 3 Framework and Web service Restful API
 - 🤔 I’m looking for help with https://stackoverflow.com/
 - 💬 Ask me about web development
-- 📫 How to reach me: contact my email aditiyaprmn00@gmail.com
+- 📫 How to reach me: https://adprm.github.io
 - ⚡ Fun fact: Friendly and easy to laugh
 
 <!--
