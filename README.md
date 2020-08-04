@@ -2,6 +2,16 @@
 
 ![Profile views](https://gpvc.arturio.dev/adprm)
 
+<a href="https://www.linkedin.com/in/aditiyaprmn/">
+  <img align="left" alt="Syauqi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/aditiyapr_mn/">
+  <img align="left" alt="Syauqi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://facebook.com/aditiya.permanaa.3/">
+  <img align="left" alt="Syauqi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 <!--
 **adprm/adprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
