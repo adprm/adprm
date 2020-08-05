@@ -18,6 +18,7 @@ Hi there, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informat
 <br />
 <br />
 
+**Little things about me :**
 - 🔭 I’m currently working on several projects using Codeigniter.
 - 🌱 I’m currently learning Codeigniter & RestfulAPI.
 - 🤔 My interests are with full stack web development.
