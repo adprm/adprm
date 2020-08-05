@@ -27,8 +27,6 @@ Hello world, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Infor
 - 📫 Please email via aditiyaprmn00@gmail.com to reach me.
 - ⚡ Fun fact: I'm laught easily.
 
-<right>![GitHub stats](https://github-readme-stats.vercel.app/api?username=adprm&show_icons=true)
-
 **Roles expertise :**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -42,6 +40,7 @@ Hello world, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Infor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adprm&show_icons=true)
 
 <!--
 **adprm/adprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
