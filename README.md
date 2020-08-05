@@ -1,6 +1,6 @@
 ### Hi there, I'm a Developer 👋
 
-Hi there, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informatics Engineering** student from Binaniaga University in Indonesia. I am very interested in the world of computer science especially in software development.
+Hi there, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informatics Engineering** student from **Binaniaga University in Indonesia**. I am very interested in the world of computer science especially in software development.
 
 <a href="https://www.linkedin.com/in/aditiyaprmn/">
   <img align="left" alt="Syauqi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
