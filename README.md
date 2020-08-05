@@ -15,7 +15,8 @@ Hi there, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informat
   <img align="left" alt="Syauqi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<br>
+<br />
+<br />
 
 - 🔭 I’m currently working on several projects using Codeigniter.
 - 🌱 I’m currently learning Codeigniter & RestfulAPI.
