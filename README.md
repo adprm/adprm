@@ -25,7 +25,8 @@ Hi there, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informat
 - 📫 Please email via aditiyaprmn00@gmail.com to reach me.
 - ⚡ Fun fact: I'm laught easily.
 
-<iframe align="right" src='https://gfycat.com/ifr/HeavyLiquidAnnelid' frameborder='0' scrolling='no' allowfullscreen width='640' height='402'></iframe><p> <a href="https://gfycat.com/heavyliquidannelid">via Gfycat</a></p>
+<img align="right" alt="GIF" src="https://gfycat.com/ifr/HeavyLiquidAnnelid" />
+</p>
 
 
 ![Profile views](https://gpvc.arturio.dev/adprm)
