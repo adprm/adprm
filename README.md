@@ -1,5 +1,7 @@
 ### Hi there, I'm a Web Developer 👋
-![Profile views](https://gpvc.arturio.dev/adprm)  <a href="https://adprm.github.io">🌐 Check out my website</a>
+![Profile views](https://gpvc.arturio.dev/adprm) 
+
+<a href="https://adprm.github.io">🌐 Check out my website</a>
 
 Hello world, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informatics Engineering** student from **Binaniaga University in Indonesia**. I am very interested in the world of computer science especially in software development.
 
