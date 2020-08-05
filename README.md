@@ -27,7 +27,7 @@ Hello world, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Infor
 - 📫 Please email via aditiyaprmn00@gmail.com to reach me.
 - ⚡ Fun fact: I'm laught easily.
 
-<p align"right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=adprm&show_icons=true)</p>
+<align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=adprm&show_icons=true)
 
 **Roles expertise :**
 
