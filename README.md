@@ -3,7 +3,7 @@
 
 <a href="https://adprm.github.io">🌐 Check out my website</a>
 
-<a href="https://github.com/adprm/ci3-crud">🔭 I'm currently working on CRUD with Codeigniter</a>
+<!--<a href="https://github.com/adprm/ci3-crud">🔭 I'm currently working on CRUD with Codeigniter</a> -->
 
 Hello world, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Informatics Engineering** student from **Binaniaga University in Indonesia**. I am very interested in the world of computer science especially in software development.
 
