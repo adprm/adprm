@@ -22,7 +22,7 @@ Hello world, I'm **Aditiya Permana**, I'm a **Web Developer**, and I'm a **Infor
 
 **Little things about me :**
 - 🔭 I’m currently working on several projects using Codeigniter.
-- 🌱 I’m currently learning Codeigniter & RestfulAPI.
+- 🌱 I’m currently learning React Native.
 - 🤔 My interests are with full stack web development.
 - 💬 Ask me about a pleasure.
 - 📫 Please email via aditiyaprmn00@gmail.com to reach me.
