@@ -43,7 +43,6 @@ Hello world, I'm **Aditiya Permana**, I'm an **Web Developer**, and I'm a **Info
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adprm&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adprm&layout=compact)
 
 <!--
 **adprm/adprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
