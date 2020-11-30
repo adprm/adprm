@@ -1,7 +1,7 @@
 ### Hi there, I'm a Web Developer 👋
 ![Profile views](https://gpvc.arturio.dev/adprm) 
 
-<a href="https://adprm.github.io">🌐 Check out my website</a>
+<a href="https://adper-dev.github.io/">🌐 Check out my website</a>
 
 <a href="https://github.com/adprm/profile-app">🔭 Current project</a>
 
