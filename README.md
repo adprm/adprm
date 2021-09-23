@@ -1,9 +1,6 @@
 ### Hi there, I'm a Web Developer 👋
 ![Profile views](https://gpvc.arturio.dev/adprm) 
 
-<a href="https://adper-dev.github.io/">🌐 Check out my website</a>
-
-<a href="https://github.com/adper-dev/destination-app">🔭 Current project</a>
 
 Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **Informatics Engineering student** from **Binaniaga University in Indonesia**. I am very interested in the world of computer science, especially in software development.
 
