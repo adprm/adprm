@@ -5,7 +5,7 @@
 
 <a href="https://github.com/adper-dev/destination-app">🔭 Current project</a>
 
-Hello world, I'm **Aditiya Permana**, I'm an **Web Developer**, and I'm a **Informatics Engineering student** from **Binaniaga University in Indonesia**. I am very interested in the world of computer science, especially in software development. I'm currently learning React Native to create mobile applications.
+Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **Informatics Engineering student** from **Binaniaga University in Indonesia**. I am very interested in the world of computer science, especially in software development.
 
 <a href="https://www.linkedin.com/in/aditiyaprmn/">
   <img align="left" alt="adprm LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
