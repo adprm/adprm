@@ -13,7 +13,9 @@ Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **I
   <img align="left" alt="adprm Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
+
 **Little things about me :**
+
 - 🔭 I’m currently working on several projects using React Native.
 - 🌱 I’m currently learning Flutter.
 - 🤔 My interests are with full stack develeper.
