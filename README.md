@@ -1,5 +1,5 @@
 ### Hi there, I'm a Mobile Developer 👋	
-// ![Profile views](https://gpvc.arturio.dev/adprm)
+<!--	![Profile views](https://gpvc.arturio.dev/adprm) -->
 
 
 Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **Informatics Engineering student** from **Binaniaga University in Indonesia**. I am very interested in the world of computer science, especially in software development.	
