@@ -18,7 +18,7 @@ I am known as someone with strong problem-solving skills, a high level of curios
 <br />	
 
 **Little things about me :**	
-
+<br />
 
 - 🔭 I’m currently working on several projects using React Native and Flutter.	
 - 🌱 I’m currently learning DevOps.	
