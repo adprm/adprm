@@ -2,7 +2,9 @@
 <!--	![Profile views](https://gpvc.arturio.dev/adprm) -->
 
 
-Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **Informatics Engineering student** from **Binaniaga University in Indonesia**. I am very interested in the world of computer science, especially in software development.	
+I am a Mobile Developer with over 4 years of experience in developing applications using React Native and Flutter. I am accustomed to building projects from scratch, continuing existing ones, and performing regular maintenance. I have experience working both independently and in teams, and I am highly adaptable to both technical and non-technical needs in the field.
+In addition to my mobile development skills, I also have experience in building and managing cloud servers, as well as deploying applications using Laravel and Node.js.
+I am known as someone with strong problem-solving skills, a high level of curiosity, and great enthusiasm for the field of computer science. With a combination of experience and a strong passion for learning, I am confident in my ability to contribute positively to any team or organization.
 
 <a href="https://www.linkedin.com/in/aditiyaprmn/">	
   <img align="left" alt="adprm LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
@@ -17,8 +19,8 @@ Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **I
 
 **Little things about me :**	
 
-- 🔭 I’m currently working on several projects using React Native.	
-- 🌱 I’m currently learning Flutter and node JS.	
+- 🔭 I’m currently working on several projects using React Native and Flutter.	
+- 🌱 I’m currently learning DevOps.	
 - 🤔 My interests are with full stack develeper.	
 - 💬 Ask me about a pleasure.	
 - 📫 Please email via aditiyaprmn00@gmail.com to reach me.	
@@ -26,6 +28,8 @@ Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **I
 
 **Roles expertise :**	
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>	
@@ -33,7 +37,6 @@ Hello world, I'm **Aditiya Permana**, I'm an **Mobile Developer**, and I'm a **I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>	
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>	
